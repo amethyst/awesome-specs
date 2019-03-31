@@ -28,6 +28,10 @@ Libraries that are generally useful when working with Specs.
 
 ## Specs-powered projects
 
+### Game engines
+
+* Amethyst - Data-oriented game engine written in Rust [![GitHub](https://img.shields.io/badge/repo-GitHub-green.svg)](https://github.com/amethyst/amethyst/) [![crates.io](https://img.shields.io/crates/v/amethyst.svg)](https://crates.io/crates/amethyst) ![finished](https://img.shields.io/badge/status-in%20development-blue.svg)
+
 ## License
 
 The contents of this repository are licensed under Unlicense, see [the LICENSE file](LICENSE).
